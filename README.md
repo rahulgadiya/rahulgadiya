@@ -1,12 +1,19 @@
-#  “कर्मण्येवाधिकारस्ते मा फलेषु कदाचन | मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि || 47 ||”
-👋 Hi, I’m @rahulgadiya.
+# “कर्मण्येवाधिकारस्ते मा फलेषु कदाचन | मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि || 47 ||”
 
-👀 I’m interested in exploring various topics in technology, including cybersecurity, Linux systems, programming, and artificial intelligence.
+👋 Hi, I’m @rahulgadiya
 
-🌱 I’m currently learning Python programming language for its versatility in both web development and data science applications.
+🧠 I’m passionate about tech — especially Linux systems, programming, IoT, and AI.  
+Currently exploring cybersecurity, automation, and system design through hands-on learning and side projects.
 
-💞️ I’m looking to collaborate on open-source projects related to Arch Linux, cybersecurity tools, and AI/machine learning applications.
+🌱 I’m learning:
+- HTML, CSS, JavaScript (for web development)
+- Python (for scripting, data science, and web)
+- Rust (for performance and systems programming)
 
-📫 How to reach me: You can reach me via email at [rahulajain98@outlook.com](mailto:rahulajain98@outlook.com) or connect with me on 
+🎯 I use Arch Linux and love ricing my desktop — performance and aesthetics go hand in hand.
 
-⚡ Fun fact: I enjoy experimenting with new Linux distributions and customizing my desktop environment for productivity and aesthetics.
+🔧 I’m looking to **collaborate on IoT-based projects**, Arch custom tools, and anything involving creative uses of tech.
+
+📫 Reach me at: [rahulajain98@outlook.com](mailto:rahulajain98@outlook.com)
+
+
