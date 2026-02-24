@@ -8,7 +8,6 @@ Currently exploring cybersecurity, automation, and system design through hands-o
 🌱 I’m learning:
 - HTML, CSS, JavaScript (for web development)
 - Python (for scripting, data science, and web)
-- Rust (for performance and systems programming)
 
 🎯 I use Arch Linux and love ricing my desktop — performance and aesthetics go hand in hand.
 
